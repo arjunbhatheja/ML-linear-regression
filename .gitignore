@@ -1,0 +1,11 @@
+.github/
+.ipynb_checkpoints/
+memory-bank/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv
+.DS_Store
